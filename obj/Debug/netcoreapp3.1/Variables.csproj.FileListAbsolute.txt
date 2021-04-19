@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\Variables\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache
